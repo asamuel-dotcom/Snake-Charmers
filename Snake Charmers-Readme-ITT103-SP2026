@@ -1,0 +1,8 @@
+Authors: Abigail Samuel 
+Date Created: April 5, 2026
+Course: ITT 103 Programming Techniques
+GitHub Public URL to Code: https://github.com/asamuel-dotcom/Snake-Charmers.git
+
+
+The purpose of the program is to allow cashiers to perform efficiently. It allows them to add products, view the cart, calculate subtotal, tax, discount, and total price. It even generates a receipt. The limitations of this program lies in the removal of a product from the cart. 
+
